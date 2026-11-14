@@ -5,7 +5,7 @@ This repository is a growing library of Claude skills, each adapted from an open
 ## Daily upgrade procedure
 
 1. **Read `UPGRADES.md`** so nothing is adopted twice and rejected candidates are not re-evaluated.
-2. **Find one candidate** on GitHub: an agent skill, prompt, workflow, checklist, or technique that would change how Claude works for the better. Prefer actively maintained, widely used projects. Vary the domain from day to day (debugging, testing, review, writing, research, data, design, security, planning…).
+2. **Find one candidate** on GitHub: an agent skill, prompt, workflow, checklist, or technique that would change how Claude works for the better. Pick from the most-starred repositories first (user preference, 2026-11-14): rank with `gh api -X GET search/repositories -f q='<terms>' -f sort=stars -f order=desc`, work down the list, and record the star count in the log. Skip repositories not pushed to in the last year. Vary the domain from day to day (debugging, testing, review, writing, research, data, design, security, planning…).
 3. **Vet it.**
    - License must permit reuse (MIT, Apache-2.0, BSD, CC-BY, CC0, or similar). No license → do not adopt.
    - Download into a fresh empty scratchpad directory and read every file in full.
