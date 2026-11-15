@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-15 | [`tdd`](.claude/skills/tdd/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/engineering/tdd` (★324k) | MIT | Test-first rules: test behavior at agreed public seams, avoid implementation-coupled and tautological tests, work in vertical slices, mock only at system boundaries. |
 | 2026-11-14 | [`delegate-free-ai`](.claude/skills/delegate-free-ai/SKILL.md) | Original (user request); calls the [OpenRouter](https://openrouter.ai) API | — | Hand self-contained, low-stakes sub-tasks (drafts, translation, summaries, boilerplate) to free models during work; results verified before use. |
 | 2026-11-14 | [`second-opinion`](.claude/skills/second-opinion/SKILL.md) | Original (user request); calls the [OpenRouter](https://openrouter.ai) API | — | Ask free models on OpenRouter to cross-check a conclusion; free-only, no sensitive content, replies verified before use. |
 | 2026-11-14 | [`grilling`](.claude/skills/grilling/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/productivity/grilling` (★324k) | MIT | Stress-test a plan by interview: treat it as a decision tree, ask every currently answerable question per round with a recommended answer, look up facts yourself, stop only when nothing is assumed. |
