@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-16 | [`search-first`](.claude/skills/search-first/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/search-first` (★304k) | MIT | Look for an existing solution before coding: repo → installed deps → stdlib → registry → tools → GitHub; then adopt, extend, compose, or build, and say which searches were skipped. |
 | 2026-11-15 | [`tdd`](.claude/skills/tdd/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/engineering/tdd` (★324k) | MIT | Test-first rules: test behavior at agreed public seams, avoid implementation-coupled and tautological tests, work in vertical slices, mock only at system boundaries. |
 | 2026-11-14 | [`delegate-free-ai`](.claude/skills/delegate-free-ai/SKILL.md) | Original (user request); calls the [OpenRouter](https://openrouter.ai) API | — | Hand self-contained, low-stakes sub-tasks (drafts, translation, summaries, boilerplate) to free models during work; results verified before use. |
 | 2026-11-14 | [`second-opinion`](.claude/skills/second-opinion/SKILL.md) | Original (user request); calls the [OpenRouter](https://openrouter.ai) API | — | Ask free models on OpenRouter to cross-check a conclusion; free-only, no sensitive content, replies verified before use. |
@@ -17,3 +18,4 @@ One open-source adoption per day. Newest first.
 |------|--------|--------|
 | 2026-11-14 | trailofbits/skills `plugins/insecure-defaults`, `plugins/sharp-edges` | Not evaluated in full: 130–150 KB each including large JS harnesses; too big to read completely in one daily run. May be revisited. |
 | 2026-11-14 | multica-ai/andrej-karpathy-skills (★233k), anthropics/skills (★194k) | GitHub reports no license. |
+| 2026-11-16 | affaan-m/ECC `skills/article-writing` | Read in full and safe, but mostly overlaps with default writing behavior and depends on a separate `brand-voice` skill. |
