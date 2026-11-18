@@ -28,5 +28,4 @@ Standing user instruction (2026-11-14): during any task, hand suitable sub-tasks
 
 ## Conversation summary
 
-`CONTEXT.md` holds the running summary of this project's conversation (goals, user decisions, current state, next steps). At the start of a new chat or after `/compact`, read it instead of asking the user to repeat context. After finishing each task the user asked for, update it: overwrite stale lines, keep it under 80 lines, never put secrets in it.
-
+Follow the `running-summary` skill in every session: read `CONTEXT.md` first; update it after each finished task; suggest a new chat or `/compact` once the conversation gets long.

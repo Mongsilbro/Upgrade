@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-18 | [`running-summary`](.claude/skills/running-summary/SKILL.md) | Original (user request) | — | Read `CONTEXT.md` at session start, update it after each task, suggest a new chat when long — to keep usage low. |
 | 2026-11-18 | [`korean-law-citation`](.claude/skills/korean-law-citation/SKILL.md) | [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) `skills/korean-law` (★2.9k) | MIT | 법령·조례·판례 인용은 확인한 원문에서만, 미확인은 [확인 필요]로 표시, 인용 검증 표. Rewritten to work without the MCP server. |
 | 2026-11-18 | [`korean-doc-style`](.claude/skills/korean-doc-style/SKILL.md) | [leeandev/stop-slop-ko](https://github.com/leeandev/stop-slop-ko) `plugins/stop-slop-ko` (★84) | MIT | 한국어 문서의 AI 티·번역투 제거: 내용·종결어미는 보존하고 문장부호·번역투·상투구만 수정. Scan script and hook not vendored. |
 | 2026-11-18 | [`gov-report`](.claude/skills/gov-report/SKILL.md) | [commetee12-source/gov-report-skill](https://github.com/commetee12-source/gov-report-skill) `SKILL.md, references/*.md` (★3) | MIT | 공무원 기획보고서: 추진배경→현황·문제점→개선방안→세부계획→기대효과, 근거 없는 章 생략, 실무 표기 규칙, 원자료 외 보완 항목 자기보고. Scripts and sample PDFs not vendored. |

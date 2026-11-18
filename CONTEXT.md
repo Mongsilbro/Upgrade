@@ -11,10 +11,11 @@
 - 작업 중 적합한 하위 작업은 무료 OpenRouter 모델에 위임(`delegate-free-ai`). 키는 환경의 network secret(openrouter.ai), 무료 하루 50회.
 - 사용량 절약: 매일 예약 작업은 실행마다 새 세션(trig_01Qmry1r55NMpc9gSLzgzZQt, 매일 01:17 UTC = 10:17 KST). 이 대화에 묶인 예전 작업(trig_016P5TtbS3BADtyyAeEPDvFd)은 꺼 둠(삭제 안 함).
 - 예약 작업에 커넥터 연결 안 함(필요 없음, 위험만 늘어남).
+- 모든 코드 채팅방: 작업마다 CONTEXT.md 갱신, 새 채팅은 이것만 읽고 시작(`running-summary` 스킬). 다른 저장소에는 처음 한 번 묻고 CONTEXT.md 생성.
 - 브랜치: `claude/daily-opensource-learning-5d8y9d` (저장소 기본 브랜치). PR 만들지 않음.
 
 ## 현재 상태 (2026-11-18)
-- 스킬 21개. 목록과 출처는 `UPGRADES.md`.
+- 스킬 22개. 목록과 출처는 `UPGRADES.md`.
 - 공무원용: `gov-report`, `korean-doc-style`, `korean-law-citation`.
 - 한계: 국가법령정보센터 본문은 여기서 직접 못 읽음(JS 로딩, Open API는 고정 IP 필요). HWP/HWPX는 세션에 설치된 플러그인(hwpx, kordoc)으로 처리.
 
