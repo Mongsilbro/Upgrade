@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-18 | [`change-impact`](.claude/skills/change-impact/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/change-impact` (★306k) | MIT | Evidence-based impact map before risky changes (code, data, interfaces, tests, docs, rollback), and a scope check against the diff afterwards. |
 | 2026-11-18 | [`codebase-onboarding`](.claude/skills/codebase-onboarding/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/codebase-onboarding` (★306k) | MIT | Survey an unfamiliar repo efficiently and produce an onboarding guide and/or a concise CLAUDE.md. |
 | 2026-11-18 | [`regex-first-extraction`](.claude/skills/regex-first-extraction/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/regex-vs-llm-structured-text` (★306k) | MIT | Structured-text extraction: regex for consistent formats, confidence checks, LLM only for flagged items. |
 | 2026-11-18 | [`architecture-decision-records`](.claude/skills/architecture-decision-records/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/architecture-decision-records` (★306k) | MIT | Read and write short numbered ADRs; offer one when a real decision between alternatives is made. |
