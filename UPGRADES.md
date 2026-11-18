@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-18 | [`architecture-decision-records`](.claude/skills/architecture-decision-records/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/architecture-decision-records` (★306k) | MIT | Read and write short numbered ADRs; offer one when a real decision between alternatives is made. |
 | 2026-11-18 | [`retro`](.claude/skills/retro/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/engineering/retro` (★327k) | MIT | Session retrospective that proposes environment fixes (checks, pointers, standards, tooling) ranked by severity. |
 | 2026-11-18 | [`pr-description`](.claude/skills/pr-description/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/engineering/pr` (★327k) | MIT | PR body with the smallest visual that explains the change, before/after evidence, and reversibility and blast radius. |
 | 2026-11-18 | [`handoff`](.claude/skills/handoff/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/productivity/handoff` (★327k) | MIT | Compact handoff document so a fresh session or chat can continue the work. |
