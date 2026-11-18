@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-18 | [`pr-description`](.claude/skills/pr-description/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/engineering/pr` (★327k) | MIT | PR body with the smallest visual that explains the change, before/after evidence, and reversibility and blast radius. |
 | 2026-11-18 | [`handoff`](.claude/skills/handoff/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/productivity/handoff` (★327k) | MIT | Compact handoff document so a fresh session or chat can continue the work. |
 | 2026-11-18 | [`writing-plans`](.claude/skills/writing-plans/SKILL.md) | [obra/superpowers](https://github.com/obra/superpowers) `skills/writing-plans` (★320k) | MIT | Implementation plans as small testable tasks recording only the decisions an implementer can't make alone; self-review for gaps and over-detail. |
 | 2026-11-18 | [`receiving-code-review`](.claude/skills/receiving-code-review/SKILL.md) | [obra/superpowers](https://github.com/obra/superpowers) `skills/receiving-code-review` (★320k) | MIT | Act on review feedback by verifying each item against the code, clarifying first, pushing back with evidence, and fixing one item at a time. |
