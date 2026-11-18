@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-18 | [`verification-before-completion`](.claude/skills/verification-before-completion/SKILL.md) | [obra/superpowers](https://github.com/obra/superpowers) `skills/verification-before-completion` (★320k) | MIT | Run the proving command this turn and read its output before saying anything is done, fixed, or passing. |
 | 2026-11-17 | [`accessibility`](.claude/skills/accessibility/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/accessibility` (★305k) | MIT | WCAG 2.2 AA while building UI: role, name, state, keyboard, announcements; contrast and target-size thresholds; web/iOS/Android mapping; focus handling for modals. Some source details corrected or dropped. |
 | 2026-11-16 | [`search-first`](.claude/skills/search-first/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/search-first` (★304k) | MIT | Look for an existing solution before coding: repo → installed deps → stdlib → registry → tools → GitHub; then adopt, extend, compose, or build, and say which searches were skipped. |
 | 2026-11-15 | [`tdd`](.claude/skills/tdd/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/engineering/tdd` (★324k) | MIT | Test-first rules: test behavior at agreed public seams, avoid implementation-coupled and tautological tests, work in vertical slices, mock only at system boundaries. |
