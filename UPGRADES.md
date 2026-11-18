@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-18 | [`korean-doc-style`](.claude/skills/korean-doc-style/SKILL.md) | [leeandev/stop-slop-ko](https://github.com/leeandev/stop-slop-ko) `plugins/stop-slop-ko` (★84) | MIT | 한국어 문서의 AI 티·번역투 제거: 내용·종결어미는 보존하고 문장부호·번역투·상투구만 수정. Scan script and hook not vendored. |
 | 2026-11-18 | [`gov-report`](.claude/skills/gov-report/SKILL.md) | [commetee12-source/gov-report-skill](https://github.com/commetee12-source/gov-report-skill) `SKILL.md, references/*.md` (★3) | MIT | 공무원 기획보고서: 추진배경→현황·문제점→개선방안→세부계획→기대효과, 근거 없는 章 생략, 실무 표기 규칙, 원자료 외 보완 항목 자기보고. Scripts and sample PDFs not vendored. |
 | 2026-11-18 | [`change-impact`](.claude/skills/change-impact/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/change-impact` (★306k) | MIT | Evidence-based impact map before risky changes (code, data, interfaces, tests, docs, rollback), and a scope check against the diff afterwards. |
 | 2026-11-18 | [`codebase-onboarding`](.claude/skills/codebase-onboarding/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/codebase-onboarding` (★306k) | MIT | Survey an unfamiliar repo efficiently and produce an onboarding guide and/or a concise CLAUDE.md. |
