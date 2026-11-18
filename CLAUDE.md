@@ -5,7 +5,7 @@ This repository is a growing library of Claude skills, each adapted from an open
 ## Daily upgrade procedure
 
 1. **Read `UPGRADES.md`** so nothing is adopted twice and rejected candidates are not re-evaluated.
-2. **Find one candidate** on GitHub: an agent skill, prompt, workflow, checklist, or technique that would change how Claude works for the better. Pick from the most-starred repositories first (user preference, 2026-11-14): rank with `gh api -X GET search/repositories -f q='<terms>' -f sort=stars -f order=desc`, work down the list, and record the star count in the log. Skip repositories not pushed to in the last year. Vary the domain from day to day (debugging, testing, review, writing, research, data, design, security, planning…).
+2. **Find one candidate** on GitHub: an agent skill, prompt, workflow, checklist, or technique that would change how Claude works for the better. Pick from the most-starred repositories first (user preference, 2026-11-14): rank with `gh api -X GET search/repositories -f q='<terms>' -f sort=stars -f order=desc`, work down the list, and record the star count in the log. Skip repositories not pushed to in the last year. Search beyond AI-agent skill collections too (user preference, 2026-11-18): widely starred general guides, style guides, checklists, and playbooks (code review, security, writing, documentation, public-sector work) are good sources as long as they can be turned into a skill that changes how Claude works. Vary the domain from day to day (debugging, testing, review, writing, research, data, design, security, planning…).
 3. **Vet it.**
    - License must permit reuse (MIT, Apache-2.0, BSD, CC-BY, CC0, or similar). No license → do not adopt.
    - Download into a fresh empty scratchpad directory and read every file in full.
@@ -14,7 +14,8 @@ This repository is a growing library of Claude skills, each adapted from an open
 4. **Adapt, don't copy.** Write the skill in your own words, condensed to what is useful. Do not vendor third-party scripts or binaries; if a script is essential, write a small one yourself and test it. Frontmatter needs `name` and a `description` that says when to trigger. Credit the source repo, path, license, and copyright holder at the top of the skill.
 5. **Record it** as a new top row in `UPGRADES.md`. If candidates were rejected, add them to the "not adopted" table with the reason.
 6. **Commit and push** to the session's development branch. One skill per commit. No pull request unless the user asks.
-7. If no candidate passes vetting that day, adopt nothing, log the rejections, and say so. A skipped day is better than a bad skill.
+7. End the report with one line proposing an improvement to this procedure or the skill library, if there is a worthwhile one.
+8. If no candidate passes vetting that day, adopt nothing, log the rejections, and say so. A skipped day is better than a bad skill.
 
 ## Using these skills elsewhere
 
@@ -29,3 +30,8 @@ Standing user instruction (2026-11-14): during any task, hand suitable sub-tasks
 ## Conversation summary
 
 Follow the `running-summary` skill in every session: read `CONTEXT.md` first; update it after each finished task; suggest a new chat or `/compact` once the conversation gets long.
+
+## Suggesting improvements
+
+Standing user instruction (2026-11-18): whenever there is a clearly better way to do what the user is asking for (cheaper, safer, more useful), say so briefly with a recommendation, then carry on. One suggestion at a time, not a list of maybes; don't repeat a suggestion the user already declined.
+
