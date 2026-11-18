@@ -25,3 +25,8 @@ This repository is a growing library of Claude skills, each adapted from an open
 ## Delegating to free models
 
 Standing user instruction (2026-11-14): during any task, hand suitable sub-tasks to free OpenRouter models without asking, following the `delegate-free-ai` skill. Only self-contained, checkable, low-stakes work; never secrets, personal data, or private code; always verify the result and mention the delegation in the final summary. For cross-checking a conclusion, use `second-opinion`.
+
+## Conversation summary
+
+`CONTEXT.md` holds the running summary of this project's conversation (goals, user decisions, current state, next steps). At the start of a new chat or after `/compact`, read it instead of asking the user to repeat context. After finishing each task the user asked for, update it: overwrite stale lines, keep it under 80 lines, never put secrets in it.
+

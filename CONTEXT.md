@@ -1,0 +1,23 @@
+# 작업 요약 (CONTEXT)
+
+새 대화나 /compact 뒤에는 이 파일만 읽고 이어서 작업한다. 작업이 하나 끝날 때마다 갱신한다(덮어써서 짧게 유지, 80줄 이내).
+
+## 목표
+- GitHub 오픈소스에서 쓸 만한 기법을 골라 Claude 스킬로 옮겨 `.claude/skills/`에 쌓는다. 다른 Claude Code 세션에서도 이 저장소를 연결해 쓴다.
+- 사용자: 대한민국 공무원. 공무원 업무(보고서·공문·법령 인용)에 도움 되는 스킬 우선.
+
+## 사용자 결정사항
+- 후보는 별(star) 많은 저장소부터. 라이선스 없으면 제외. 스크립트·바이너리는 가져오지 않고 제 말로 재작성.
+- 작업 중 적합한 하위 작업은 무료 OpenRouter 모델에 위임(`delegate-free-ai`). 키는 환경의 network secret(openrouter.ai), 무료 하루 50회.
+- 사용량 절약: 매일 예약 작업은 실행마다 새 세션(trig_01Qmry1r55NMpc9gSLzgzZQt, 매일 01:17 UTC = 10:17 KST). 이 대화에 묶인 예전 작업(trig_016P5TtbS3BADtyyAeEPDvFd)은 꺼 둠(삭제 안 함).
+- 예약 작업에 커넥터 연결 안 함(필요 없음, 위험만 늘어남).
+- 브랜치: `claude/daily-opensource-learning-5d8y9d` (저장소 기본 브랜치). PR 만들지 않음.
+
+## 현재 상태 (2026-11-18)
+- 스킬 21개. 목록과 출처는 `UPGRADES.md`.
+- 공무원용: `gov-report`, `korean-doc-style`, `korean-law-citation`.
+- 한계: 국가법령정보센터 본문은 여기서 직접 못 읽음(JS 로딩, Open API는 고정 IP 필요). HWP/HWPX는 세션에 설치된 플러그인(hwpx, kordoc)으로 처리.
+
+## 다음 할 일 / 열린 질문
+- 다음 예약 실행(새 세션 방식) 첫 결과 확인: 푸시 권한을 스스로 얻는지.
+- 사용자가 사용량을 보고 추가 스킬 개수를 정하면 진행.
