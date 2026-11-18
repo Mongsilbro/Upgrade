@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-18 | [`korean-law-citation`](.claude/skills/korean-law-citation/SKILL.md) | [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) `skills/korean-law` (★2.9k) | MIT | 법령·조례·판례 인용은 확인한 원문에서만, 미확인은 [확인 필요]로 표시, 인용 검증 표. Rewritten to work without the MCP server. |
 | 2026-11-18 | [`korean-doc-style`](.claude/skills/korean-doc-style/SKILL.md) | [leeandev/stop-slop-ko](https://github.com/leeandev/stop-slop-ko) `plugins/stop-slop-ko` (★84) | MIT | 한국어 문서의 AI 티·번역투 제거: 내용·종결어미는 보존하고 문장부호·번역투·상투구만 수정. Scan script and hook not vendored. |
 | 2026-11-18 | [`gov-report`](.claude/skills/gov-report/SKILL.md) | [commetee12-source/gov-report-skill](https://github.com/commetee12-source/gov-report-skill) `SKILL.md, references/*.md` (★3) | MIT | 공무원 기획보고서: 추진배경→현황·문제점→개선방안→세부계획→기대효과, 근거 없는 章 생략, 실무 표기 규칙, 원자료 외 보완 항목 자기보고. Scripts and sample PDFs not vendored. |
 | 2026-11-18 | [`change-impact`](.claude/skills/change-impact/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/change-impact` (★306k) | MIT | Evidence-based impact map before risky changes (code, data, interfaces, tests, docs, rollback), and a scope check against the diff afterwards. |
@@ -32,3 +33,7 @@ One open-source adoption per day. Newest first.
 | 2026-11-14 | trailofbits/skills `plugins/insecure-defaults`, `plugins/sharp-edges` | Not evaluated in full: 130–150 KB each including large JS harnesses; too big to read completely in one daily run. May be revisited. |
 | 2026-11-14 | multica-ai/andrej-karpathy-skills (★233k), anthropics/skills (★194k) | GitHub reports no license. |
 | 2026-11-16 | affaan-m/ECC `skills/article-writing` | Read in full and safe, but mostly overlaps with default writing behavior and depends on a separate `brand-voice` skill. |
+| 2026-11-18 | jkf87/hwpx-skill (★312), ai-public-peasant/hwpx-rekian (★68) | No license on GitHub. |
+| 2026-11-18 | chrisryugj/korean-law-mcp (server itself) | Not installed: runs third-party code and needs a law.go.kr Open API key registered to a fixed server IP. Its citation rules were adopted as `korean-law-citation`. |
+| 2026-11-18 | DoHyun468/claw-hwp, UpstageAI/korean-report-hwpx, other HWP/HWPX tools | Script/server-based; HWP/HWPX handling is already available through installed plugins in this environment. |
+| 2026-11-18 | parkjui92/paper-proofread (★6) | Not evaluated in full; proofreading largely covered by `korean-doc-style`. |
