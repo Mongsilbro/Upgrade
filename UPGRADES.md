@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-18 | [`gov-report`](.claude/skills/gov-report/SKILL.md) | [commetee12-source/gov-report-skill](https://github.com/commetee12-source/gov-report-skill) `SKILL.md, references/*.md` (★3) | MIT | 공무원 기획보고서: 추진배경→현황·문제점→개선방안→세부계획→기대효과, 근거 없는 章 생략, 실무 표기 규칙, 원자료 외 보완 항목 자기보고. Scripts and sample PDFs not vendored. |
 | 2026-11-18 | [`change-impact`](.claude/skills/change-impact/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/change-impact` (★306k) | MIT | Evidence-based impact map before risky changes (code, data, interfaces, tests, docs, rollback), and a scope check against the diff afterwards. |
 | 2026-11-18 | [`codebase-onboarding`](.claude/skills/codebase-onboarding/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/codebase-onboarding` (★306k) | MIT | Survey an unfamiliar repo efficiently and produce an onboarding guide and/or a concise CLAUDE.md. |
 | 2026-11-18 | [`regex-first-extraction`](.claude/skills/regex-first-extraction/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/regex-vs-llm-structured-text` (★306k) | MIT | Structured-text extraction: regex for consistent formats, confidence checks, LLM only for flagged items. |
