@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-18 | [`writing-plans`](.claude/skills/writing-plans/SKILL.md) | [obra/superpowers](https://github.com/obra/superpowers) `skills/writing-plans` (★320k) | MIT | Implementation plans as small testable tasks recording only the decisions an implementer can't make alone; self-review for gaps and over-detail. |
 | 2026-11-18 | [`receiving-code-review`](.claude/skills/receiving-code-review/SKILL.md) | [obra/superpowers](https://github.com/obra/superpowers) `skills/receiving-code-review` (★320k) | MIT | Act on review feedback by verifying each item against the code, clarifying first, pushing back with evidence, and fixing one item at a time. |
 | 2026-11-18 | [`verification-before-completion`](.claude/skills/verification-before-completion/SKILL.md) | [obra/superpowers](https://github.com/obra/superpowers) `skills/verification-before-completion` (★320k) | MIT | Run the proving command this turn and read its output before saying anything is done, fixed, or passing. |
 | 2026-11-17 | [`accessibility`](.claude/skills/accessibility/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/accessibility` (★305k) | MIT | WCAG 2.2 AA while building UI: role, name, state, keyboard, announcements; contrast and target-size thresholds; web/iOS/Android mapping; focus handling for modals. Some source details corrected or dropped. |
