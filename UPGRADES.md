@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-19 | [`database-migrations`](.claude/skills/database-migrations/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/database-migrations` (★306k) | MIT | Safe migrations: lock-aware checklist, separate DDL and backfills, expand–contract with `IS DISTINCT FROM` reconciliation and parity check. Tool command lists and example SQL not vendored. |
 | 2026-11-19 | [`questionnaire`](.claude/skills/questionnaire/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/productivity/to-questionnaire` (★327k) | MIT | 질의서·의견조회서: ask the user only who receives it and what they need back, then write prioritized one-idea questions with answer slots. Korean public-sector usage added. |
 | 2026-11-19 | [`teach`](.claude/skills/teach/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/productivity/teach` (★327k) | MIT | Multi-session learning workspace: mission, trusted sources, glossary, evidence-based learning records, short lessons with retrieval practice and spacing. |
 | 2026-11-19 | [`writing-for-agents`](.claude/skills/writing-for-agents/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/productivity/writing-for-agents` (★327k) | MIT | How to write skills and CLAUDE.md: trigger-first descriptions, what goes in the main file vs. a linked file, checkable completion criteria, positive phrasing, pruning no-op lines. |
