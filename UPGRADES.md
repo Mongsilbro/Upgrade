@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-19 | [`commit-message`](.claude/skills/commit-message/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/conventional-commit-review` (★306k) | MIT | Commit messages that match the repo's own history (prefix, scope, length, language); split mixed commits; body only for the why. |
 | 2026-11-19 | [`database-migrations`](.claude/skills/database-migrations/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/database-migrations` (★306k) | MIT | Safe migrations: lock-aware checklist, separate DDL and backfills, expand–contract with `IS DISTINCT FROM` reconciliation and parity check. Tool command lists and example SQL not vendored. |
 | 2026-11-19 | [`questionnaire`](.claude/skills/questionnaire/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/productivity/to-questionnaire` (★327k) | MIT | 질의서·의견조회서: ask the user only who receives it and what they need back, then write prioritized one-idea questions with answer slots. Korean public-sector usage added. |
 | 2026-11-19 | [`teach`](.claude/skills/teach/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/productivity/teach` (★327k) | MIT | Multi-session learning workspace: mission, trusted sources, glossary, evidence-based learning records, short lessons with retrieval practice and spacing. |
@@ -51,3 +52,5 @@ One open-source adoption per day. Newest first.
 | 2026-11-19 | treffynnon/sqlstyle.guide (★1.5k) | License not identified by GitHub (NOASSERTION); not evaluated further. |
 | 2026-11-19 | lissy93/personal-security-checklist (★22.8k) | License not identified by GitHub (NOASSERTION); personal-device advice, not a way of working for Claude. |
 | 2026-11-19 | drduh/macOS-Security-and-Privacy-Guide (★22.6k) | MIT, but a macOS hardening manual for end users; does not change how Claude works. |
+| 2026-11-19 | affaan-m/ECC `skills/error-handling` | Read in full and safe, but mostly code samples of patterns Claude already applies by default; little change in behaviour. |
+| 2026-11-19 | mattpocock/skills `skills/engineering/to-spec` | Depends on the author's issue-tracker setup skill; spec structure largely covered by `writing-plans`. |
