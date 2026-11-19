@@ -1,6 +1,6 @@
 ---
 name: questionnaire
-description: Use when the user needs information or a decision from someone else before they can proceed and asks for a questionnaire, 질의서, 의견조회서, 사전 질문지, or a list of questions to send to a colleague, another department, an expert, a vendor, or a stakeholder. Not for surveys of the general public with statistical analysis.
+description: Use when the user needs answers from someone else and asks for a questionnaire, 질의서, 의견조회서, or questions to send to a colleague, department, expert, or vendor.
 ---
 
 # Questionnaire for someone who knows what you don't

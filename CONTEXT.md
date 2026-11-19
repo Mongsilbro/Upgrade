@@ -20,6 +20,7 @@
 
 ## 현재 상태 (2026-11-19)
 - 스킬 30개(11-19 `literature-review`, `api-security`, `writing-for-agents`, `teach`, `questionnaire`, `database-migrations`, `commit-message` 추가). 목록과 출처는 `UPGRADES.md`.
+- 11-19 스킬 설명(description) 전체 정리: 9,956자 → 3,791자(매 대화 상시 비용 절감). 매주 월요일 예약 실행 때 설명 길이·중복 점검(CLAUDE.md 9단계).
 - 공무원용: `gov-report`, `korean-doc-style`, `korean-law-citation`, `questionnaire`(질의서·의견조회서).
 - 한계: 국가법령정보센터 본문은 여기서 직접 못 읽음(JS 로딩, Open API는 고정 IP 필요). HWP/HWPX는 세션에 설치된 플러그인(hwpx, kordoc)으로 처리.
 

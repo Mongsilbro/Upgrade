@@ -1,6 +1,6 @@
 ---
 name: retro
-description: Use when the user asks for a retrospective on a coding session, or asks how future agent runs in this repo could go better. Finds where the agent lost time or made mistakes and proposes environment changes — checks, navigation pointers, standards, tooling — ranked by severity.
+description: Use when asked for a retrospective on a session or how future agent runs in this repo could go better.
 ---
 
 # Retro

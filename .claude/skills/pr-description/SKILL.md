@@ -1,6 +1,6 @@
 ---
 name: pr-description
-description: Use when writing or rewriting a pull request description. Produces a short body with a visual summary of the change, before/after evidence that it works, and an assessment of how risky the merge is.
+description: Use when writing or rewriting a pull request description.
 ---
 
 # PR Description

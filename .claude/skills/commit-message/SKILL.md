@@ -1,6 +1,6 @@
 ---
 name: commit-message
-description: Use when writing, fixing, or reviewing a git commit message, or before committing a set of changes. Reads the repository's own history to match its convention (Conventional Commits or otherwise), and flags commits that mix unrelated changes.
+description: Use when writing or reviewing a git commit message. Matches the repository's own commit history.
 ---
 
 # Commit message

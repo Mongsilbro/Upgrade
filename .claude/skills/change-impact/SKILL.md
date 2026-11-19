@@ -1,6 +1,6 @@
 ---
 name: change-impact
-description: Use before a risky or wide-reaching change — public APIs, database schema or migrations, authentication, file formats, deployment, anything irreversible or cross-module — or when asked about blast radius or rollback. Maps what the change touches from real evidence, then afterwards compares the actual diff against that map.
+description: Use before a risky or wide-reaching code change (public API, schema, auth, deploy, anything irreversible) or when asked about blast radius or rollback.
 ---
 
 # Change Impact Analysis

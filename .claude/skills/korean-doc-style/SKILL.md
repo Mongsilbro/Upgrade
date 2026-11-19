@@ -1,6 +1,6 @@
 ---
 name: korean-doc-style
-description: 한국어 실무 문서(보고서, 공문, 회의록, 안내문, 메일, 발표자료)나 서술형 글을 쓰거나 다듬을 때, "AI 티"·번역투를 빼 달라고 할 때, 기존 문서의 문체에 맞춰 달라고 할 때 사용. 내용·숫자·근거는 그대로 두고 문장부호·번역투·상투구만 고친다. Use when writing or polishing Korean documents.
+description: 한국어 실무 문서(보고서, 공문, 회의록, 안내문, 메일)를 쓰거나 다듬을 때, AI 티·번역투를 빼 달라고 할 때. Polishing Korean documents.
 ---
 
 # 한국어 문서 문체

@@ -1,6 +1,6 @@
 ---
 name: writing-plans
-description: Use when the user asks for an implementation plan, or when a multi-step coding task has a spec or clear requirements and the plan should be written down before code is touched. Produces a plan of small, testable tasks that someone with no context could execute.
+description: Use when asked for an implementation plan, or before coding a multi-step task that has a spec.
 ---
 
 # Writing Plans

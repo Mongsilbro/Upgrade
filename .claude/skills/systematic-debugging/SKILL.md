@@ -1,6 +1,6 @@
 ---
 name: systematic-debugging
-description: Use when hitting any bug, test failure, build failure, or unexpected behavior — before proposing or applying a fix. Enforces root-cause investigation first, one hypothesis at a time, and an architecture rethink after three failed fixes.
+description: Use when hitting any bug, test failure, or unexpected behavior, before proposing a fix.
 ---
 
 # Systematic Debugging

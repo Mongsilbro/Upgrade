@@ -16,6 +16,7 @@ This repository is a growing library of Claude skills, each adapted from an open
 6. **Commit and push** to the session's development branch. One skill per commit. No pull request unless the user asks.
 7. End the report with one line proposing an improvement to this procedure or the skill library, if there is a worthwhile one.
 8. If no candidate passes vetting that day, adopt nothing, log the rejections, and say so. A skipped day is better than a bad skill.
+9. **Weekly audit** (user preference, 2026-11-19): on Mondays (KST), before adding a skill, check the library against the `writing-for-agents` skill. Keep every `description` short and trigger-only (total across all skills under about 4,000 characters), make overlapping skills name each other, and merge or remove skills that duplicate another or that Claude's default behaviour already covers. Record removals in `UPGRADES.md` and commit the audit separately.
 
 ## Using these skills elsewhere
 

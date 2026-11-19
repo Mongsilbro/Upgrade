@@ -1,6 +1,6 @@
 ---
 name: codebase-onboarding
-description: Use when the user asks to understand, explore, or be walked through an unfamiliar repository, or asks to create or update a CLAUDE.md for a project. Surveys stack, structure, entry points, data flow, and conventions efficiently, then writes a short onboarding guide and/or CLAUDE.md.
+description: Use when asked to explain or explore an unfamiliar repository, or to create or update a project's CLAUDE.md.
 ---
 
 # Codebase Onboarding

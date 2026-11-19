@@ -1,6 +1,6 @@
 ---
 name: teach
-description: Use when the user asks to be taught or to learn a topic or skill over several sessions (e.g. "teach me X", "X 공부하고 싶어", "X 가르쳐 줘") — not for a one-off explanation. Sets up a learning workspace with the learner's goal, trusted sources, short lessons with retrieval practice, and records of what they have actually learned.
+description: Use when the user wants to learn a topic over several sessions ("teach me X", "X 공부하고 싶어"), not for a one-off explanation.
 ---
 
 # Teach

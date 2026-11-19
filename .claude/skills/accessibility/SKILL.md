@@ -1,6 +1,6 @@
 ---
 name: accessibility
-description: Use when building, reviewing, or auditing user interface code (web, iOS, Android) — components, forms, modals, menus, icons, color and status styling — to make it usable with keyboard and screen readers to WCAG 2.2 AA. Also when the user mentions accessibility, a11y, ARIA, contrast, or screen readers.
+description: Use when building or reviewing UI code (web, iOS, Android) or when accessibility, a11y, ARIA, contrast, or screen readers come up. Targets WCAG 2.2 AA.
 ---
 
 # Accessibility (WCAG 2.2 AA)

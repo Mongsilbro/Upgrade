@@ -1,6 +1,6 @@
 ---
 name: search-first
-description: Use before writing a new utility, helper, abstraction, or integration, or when adding a dependency — check whether the repository, the package registry, or an existing tool already solves it, then decide to adopt, extend, compose, or build. Not for small one-off logic that is quicker to write than to look up.
+description: "Use before writing a new utility, helper, or integration, or adding a dependency: check for an existing solution first."
 ---
 
 # Search First

@@ -1,6 +1,6 @@
 ---
 name: tdd
-description: Use when building a feature or fixing a bug test-first, when the user mentions TDD or red-green-refactor, or when writing or reviewing tests and deciding what to test, where, and what to mock. Covers what makes a test worth keeping, test anti-patterns, and the rules of the red-green loop.
+description: Use when working test-first, when TDD or red-green-refactor comes up, or when deciding what to test and mock.
 ---
 
 # Test-Driven Development

@@ -1,6 +1,6 @@
 ---
 name: running-summary
-description: Use in every coding session. At the start, if the repository has a CONTEXT.md, read it before anything else and continue from it instead of asking the user to repeat context. After finishing each task the user asked for, update it. Standing user instruction (2026-11-18) to keep chats short and cheap.
+description: "Use in every session: read CONTEXT.md first if it exists, and update it after each finished task."
 ---
 
 # Running Summary

@@ -1,6 +1,6 @@
 ---
 name: verification-before-completion
-description: Use right before saying work is done, fixed, passing, or working — and before committing, pushing, opening a PR, or moving to the next task. Requires running the command that proves the claim in the current turn and reading its output first.
+description: Use right before claiming work is done, fixed, or passing, and before committing or pushing.
 ---
 
 # Verification Before Completion

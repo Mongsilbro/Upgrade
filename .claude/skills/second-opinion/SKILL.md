@@ -1,6 +1,6 @@
 ---
 name: second-opinion
-description: Use when the user asks for a second opinion, a cross-check, or what another AI thinks, or when an important conclusion (a design choice, a subtle bug diagnosis, a risky change) would benefit from an independent check by a different model. Sends a question to free models on OpenRouter and reports where they agree and disagree. Never use for content that is secret, personal, or proprietary.
+description: Use when the user asks for a second opinion or cross-check, or an important conclusion would benefit from a different model's check. Free OpenRouter models; no secret or personal content.
 ---
 
 # Second Opinion

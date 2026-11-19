@@ -1,6 +1,6 @@
 ---
 name: korean-law-citation
-description: 한국 법령·조례·행정규칙·판례를 인용하거나 근거 조항을 적어야 할 때(보고서의 추진 근거, 공문의 관계 법령, 민원 회신, 법령 질의 답변 등), 또는 문서 속 조문·판례 인용이 맞는지 확인해 달라고 할 때 사용. 기억에 의존한 조문을 사실처럼 쓰지 않고, 원문 확인 여부를 구분해 표시한다. Use when citing Korean statutes, ordinances, or precedents.
+description: 한국 법령·조례·행정규칙·판례를 인용하거나 근거 조항을 적을 때, 또는 인용이 맞는지 확인할 때. Citing Korean law.
 ---
 
 # 한국 법령 인용

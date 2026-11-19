@@ -1,6 +1,6 @@
 ---
 name: delegate-free-ai
-description: Use on your own initiative during any multi-step task when a self-contained, low-risk piece of work can be handed to a free model — first drafts, translation, summarizing public text, brainstorming options, naming, boilerplate or test-case ideas, reformatting. The user has asked for this delegation to happen without being told each time. Never for secret, personal, or proprietary content, and never for work that needs tools or the repository.
+description: "Use on your own initiative (standing user instruction) to hand self-contained, low-risk sub-tasks to free OpenRouter models: drafts, translation, public-text summaries, brainstorming, boilerplate. Never secret, personal, or private content."
 ---
 
 # Delegate to Free AI

@@ -1,6 +1,6 @@
 ---
 name: literature-review
-description: Use when the user asks for a literature review, a state-of-the-art or evidence summary, prior research or 선행연구 for a report or paper, or asks how strong the evidence behind a claim, study, or research report is. Plans a reproducible search, screens and logs sources, synthesizes by theme with confidence levels, verifies every citation, and can score a single study against a fixed rubric. Not for a quick fact lookup.
+description: Use when asked for a literature review, evidence summary, or 선행연구, or how strong the evidence behind a claim or study is. Not for a quick fact lookup.
 ---
 
 # Literature review and evidence evaluation

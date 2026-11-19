@@ -1,6 +1,6 @@
 ---
 name: api-security
-description: Use when designing, building, or reviewing an HTTP API or web backend — endpoints, authentication, OAuth, input handling, file upload, error responses, headers, logging, deployment — or when asked whether an API is secure or ready to release. Walks a fixed checklist and reports each item as pass, fail, or not checked with file evidence. For judging an existing vulnerability report, use `vulnerability-triage` instead.
+description: "Use when designing, building, or reviewing an HTTP API or backend, or asked if it is secure or ready to release. Checklist with PASS/FAIL per item. Existing vulnerability reports: `vulnerability-triage`."
 ---
 
 # API security checklist

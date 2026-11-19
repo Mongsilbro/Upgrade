@@ -1,6 +1,6 @@
 ---
 name: writing-for-agents
-description: Use when creating or editing a skill (SKILL.md), a CLAUDE.md or AGENTS.md, or any document an agent will read and follow — including skills adopted into this repository. Covers how to word descriptions so they trigger, what to keep in the main file versus a linked file, completion criteria for steps, and pruning lines that change nothing.
+description: Use when creating or editing a skill, CLAUDE.md, AGENTS.md, or any document an agent will follow.
 ---
 
 # Writing for agents

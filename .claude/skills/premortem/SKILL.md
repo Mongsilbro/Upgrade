@@ -1,6 +1,6 @@
 ---
 name: premortem
-description: Use when a plan, project, launch, migration, policy, or strategy is about to be committed to and the user asks how it could fail, wants a premortem or risk check, or asks to "attack" or stress-test the plan document itself. Assumes the plan has already failed, attacks it through twelve fixed failure modes, and returns the three most likely causes of death with dated early-warning tripwires. For interviewing the user about an unformed plan, use `grilling` instead; for code changes, `change-impact`.
+description: "Use when a plan, project, policy, or launch is about to be committed to and the user asks how it could fail or wants a premortem. Unformed ideas: `grilling`; code changes: `change-impact`."
 ---
 
 # Premortem

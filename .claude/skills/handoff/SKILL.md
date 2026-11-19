@@ -1,6 +1,6 @@
 ---
 name: handoff
-description: Use when the user asks for a handoff, wants to continue this work in another chat or session, or the conversation is long and the work should move to a fresh context. Writes a compact document a new agent can pick up from without the conversation.
+description: Use when the user asks for a handoff or to continue the work in a new chat or session.
 ---
 
 # Handoff

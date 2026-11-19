@@ -1,6 +1,6 @@
 ---
 name: receiving-code-review
-description: Use when acting on code review feedback — from the user, a reviewer, a PR comment, or an automated reviewer — before implementing any of it, especially when an item is unclear or looks technically wrong. Verify each suggestion against the codebase, clarify first, push back with reasons, then fix one item at a time.
+description: Use when acting on code review feedback (user, reviewer, PR comment, bot), before implementing any of it.
 ---
 
 # Receiving Code Review

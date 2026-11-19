@@ -1,6 +1,6 @@
 ---
 name: grilling
-description: Use when the user asks to be grilled, interviewed, or challenged about a plan, design, decision, or idea, or wants their thinking stress-tested before work starts. Interviews in rounds until nothing is left assumed. Not for ordinary requests where a sensible default would do.
+description: "Use when the user asks to be grilled, interviewed, or challenged on a plan or idea before work starts. Ready-to-commit plan documents: `premortem`."
 ---
 
 # Grilling

@@ -1,6 +1,6 @@
 ---
 name: gov-report
-description: 대한민국 공무원의 기획보고서·정책보고서·추진계획·개선방안 보고서를 작성하거나 검토할 때 사용. 자료(통계, 설문, 연구, 언론보도, 해외사례 등)를 분석해 추진 배경 → 현황 및 문제점 → 개선방안 → 세부 추진계획 → 기대 효과 구조로 쓰고, 근거 없는 수치·출처를 만들지 않으며, 원자료에 없어 보완한 부분을 사용자에게 따로 알린다. Use for Korean public-sector planning and policy reports.
+description: 공무원 기획보고서·정책보고서·추진계획·개선방안 보고서를 쓰거나 검토할 때. 근거 없는 수치를 만들지 않는다. Korean public-sector reports.
 ---
 
 # 공무원 기획보고서

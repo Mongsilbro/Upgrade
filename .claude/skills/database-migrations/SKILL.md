@@ -1,6 +1,6 @@
 ---
 name: database-migrations
-description: Use when writing or reviewing a database schema or data migration — adding, renaming, or dropping columns, adding indexes or constraints on large tables, backfilling data, planning rollback, or a zero-downtime deploy. Applies to any migration tool (Django, Prisma, Drizzle, Rails, Flyway, golang-migrate …); examples are PostgreSQL.
+description: "Use when writing or reviewing a schema or data migration: column/index/constraint changes, backfills, rollback, zero-downtime deploys."
 ---
 
 # Database migrations
