@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-19 | [`premortem`](.claude/skills/premortem/SKILL.md) | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) `skills/premortem-assassin` (★1.6k) | MIT | Assume the plan has failed; check it against twelve fixed failure modes (incl. zombie outcome), name the top three causes of death and dated tripwires. Public-sector failure modes added. |
 | 2026-11-18 | [`running-summary`](.claude/skills/running-summary/SKILL.md) | Original (user request) | — | Read `CONTEXT.md` at session start, update it after each task, suggest a new chat when long — to keep usage low. |
 | 2026-11-18 | [`korean-law-citation`](.claude/skills/korean-law-citation/SKILL.md) | [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) `skills/korean-law` (★2.9k) | MIT | 법령·조례·판례 인용은 확인한 원문에서만, 미확인은 [확인 필요]로 표시, 인용 검증 표. Rewritten to work without the MCP server. |
 | 2026-11-18 | [`korean-doc-style`](.claude/skills/korean-doc-style/SKILL.md) | [leeandev/stop-slop-ko](https://github.com/leeandev/stop-slop-ko) `plugins/stop-slop-ko` (★84) | MIT | 한국어 문서의 AI 티·번역투 제거: 내용·종결어미는 보존하고 문장부호·번역투·상투구만 수정. Scan script and hook not vendored. |
@@ -38,3 +39,5 @@ One open-source adoption per day. Newest first.
 | 2026-11-18 | chrisryugj/korean-law-mcp (server itself) | Not installed: runs third-party code and needs a law.go.kr Open API key registered to a fixed server IP. Its citation rules were adopted as `korean-law-citation`. |
 | 2026-11-18 | DoHyun468/claw-hwp, UpstageAI/korean-report-hwpx, other HWP/HWPX tools | Script/server-based; HWP/HWPX handling is already available through installed plugins in this environment. |
 | 2026-11-18 | parkjui92/paper-proofread (★6) | Not evaluated in full; proofreading largely covered by `korean-doc-style`. |
+| 2026-11-19 | microsoft/api-guidelines (★23k), zalando/restful-api-guidelines (★3.3k) | Not evaluated in full: hundreds of KB of guidelines; too large to read completely in one lean run. |
+| 2026-11-19 | dastergon/postmortem-templates (★1.5k), interagent/http-api-design (★13.7k) | Not pushed to in the last year. |
