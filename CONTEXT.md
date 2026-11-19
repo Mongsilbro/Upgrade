@@ -18,7 +18,7 @@
 - 브랜치: `claude/daily-opensource-learning-5d8y9d` (저장소 기본 브랜치). PR 만들지 않음.
 
 ## 현재 상태 (2026-11-19)
-- 스킬 23개(11-19 `premortem` 추가). 목록과 출처는 `UPGRADES.md`.
+- 스킬 24개(11-19 `literature-review` 추가). 목록과 출처는 `UPGRADES.md`.
 - 공무원용: `gov-report`, `korean-doc-style`, `korean-law-citation`.
 - 한계: 국가법령정보센터 본문은 여기서 직접 못 읽음(JS 로딩, Open API는 고정 IP 필요). HWP/HWPX는 세션에 설치된 플러그인(hwpx, kordoc)으로 처리.
 
