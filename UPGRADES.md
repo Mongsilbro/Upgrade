@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-19 | [`api-security`](.claude/skills/api-security/SKILL.md) | [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) `README.md` (★23k) | MIT | Section-by-section API security checklist (authn, authz incl. object-level and mass assignment, transport, input incl. SSRF/XXE/uploads, output, secrets/CI, logging) reported as PASS/FAIL/NOT CHECKED with file evidence. Outdated items updated. |
 | 2026-11-19 | [`literature-review`](.claude/skills/literature-review/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/scientific-thinking-literature-review`, `skills/scientific-thinking-scholar-evaluation` (★306k) | MIT | Reproducible review: question and rigor level, search log, dedupe and screening, extraction table, synthesis by theme with High/Medium/Low confidence, citation check; nine-dimension rubric for judging one study. Korean research sources added. |
 | 2026-11-19 | [`premortem`](.claude/skills/premortem/SKILL.md) | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) `skills/premortem-assassin` (★1.6k) | MIT | Assume the plan has failed; check it against twelve fixed failure modes (incl. zombie outcome), name the top three causes of death and dated tripwires. Public-sector failure modes added. |
 | 2026-11-18 | [`running-summary`](.claude/skills/running-summary/SKILL.md) | Original (user request) | — | Read `CONTEXT.md` at session start, update it after each task, suggest a new chat when long — to keep usage low. |
@@ -44,3 +45,5 @@ One open-source adoption per day. Newest first.
 | 2026-11-19 | dastergon/postmortem-templates (★1.5k), interagent/http-api-design (★13.7k) | Not pushed to in the last year. |
 | 2026-11-19 | google/eng-practices (★23k) | Not pushed to in the last year. |
 | 2026-11-19 | treffynnon/sqlstyle.guide (★1.5k) | License not identified by GitHub (NOASSERTION); not evaluated further. |
+| 2026-11-19 | lissy93/personal-security-checklist (★22.8k) | License not identified by GitHub (NOASSERTION); personal-device advice, not a way of working for Claude. |
+| 2026-11-19 | drduh/macOS-Security-and-Privacy-Guide (★22.6k) | MIT, but a macOS hardening manual for end users; does not change how Claude works. |
