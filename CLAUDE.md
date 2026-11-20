@@ -34,5 +34,5 @@ Follow the `running-summary` skill in every session: read `CONTEXT.md` first; up
 
 ## Suggesting improvements
 
-Standing user instruction (2026-11-18): whenever there is a clearly better way to do what the user is asking for (cheaper, safer, more useful), say so briefly with a recommendation, then carry on. One suggestion at a time, not a list of maybes; don't repeat a suggestion the user already declined.
+Standing user instruction (2026-11-18): whenever there is a clearly better way to do what the user is asking for (cheaper, safer, more useful), say so briefly with a recommendation, then carry on. One suggestion at a time, not a list of maybes; don't repeat a suggestion the user already declined. Strengthened (2026-11-20): don't just carry out the user's proposed method as given; before acting, weigh it against alternatives and lead with the better one if there is one, then follow the user's choice.
 
