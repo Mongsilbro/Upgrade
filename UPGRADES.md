@@ -4,6 +4,7 @@ One open-source adoption per day. Newest first.
 
 | Date | Skill | Source | License | What it adds |
 |------|-------|--------|---------|--------------|
+| 2026-11-20 | [`comparison-matrix`](.claude/skills/comparison-matrix/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/benchmark-methodology` (★306k) | MIT | Side-by-side comparison of options or other agencies' cases: fixed criteria, per-criterion 1/3/5 anchors, evidence and proven/asserted tag per cell, no headline composite, cross-set calibration. Generalized from a design-studio competitor rubric. |
 | 2026-11-19 | [`commit-message`](.claude/skills/commit-message/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/conventional-commit-review` (★306k) | MIT | Commit messages that match the repo's own history (prefix, scope, length, language); split mixed commits; body only for the why. |
 | 2026-11-19 | [`database-migrations`](.claude/skills/database-migrations/SKILL.md) | [affaan-m/ECC](https://github.com/affaan-m/ECC) `skills/database-migrations` (★306k) | MIT | Safe migrations: lock-aware checklist, separate DDL and backfills, expand–contract with `IS DISTINCT FROM` reconciliation and parity check. Tool command lists and example SQL not vendored. |
 | 2026-11-19 | [`questionnaire`](.claude/skills/questionnaire/SKILL.md) | [mattpocock/skills](https://github.com/mattpocock/skills) `skills/productivity/to-questionnaire` (★327k) | MIT | 질의서·의견조회서: ask the user only who receives it and what they need back, then write prioritized one-idea questions with answer slots. Korean public-sector usage added. |
@@ -54,3 +55,5 @@ One open-source adoption per day. Newest first.
 | 2026-11-19 | drduh/macOS-Security-and-Privacy-Guide (★22.6k) | MIT, but a macOS hardening manual for end users; does not change how Claude works. |
 | 2026-11-19 | affaan-m/ECC `skills/error-handling` | Read in full and safe, but mostly code samples of patterns Claude already applies by default; little change in behaviour. |
 | 2026-11-19 | mattpocock/skills `skills/engineering/to-spec` | Depends on the author's issue-tracker setup skill; spec structure largely covered by `writing-plans`. |
+| 2026-11-20 | BagelHole/DevOps-Security-Agent-Skills (★1.2k), aws-samples/aws-incident-response-playbooks (★1.1k) | Not evaluated: cloud/DevOps incident runbooks, far from the user's work; ECC was preferred as the higher-starred source. |
+| 2026-11-20 | danluu/post-mortems (★12.7k) | No license on GitHub. |

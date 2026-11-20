@@ -18,12 +18,12 @@
 - 더 나은 방향이 있으면 항상 짧게 제안(매일 보고 끝에도 한 줄).
 - 브랜치: `claude/daily-opensource-learning-5d8y9d` (저장소 기본 브랜치). PR 만들지 않음.
 
-## 현재 상태 (2026-11-19)
-- 스킬 30개(11-19 `literature-review`, `api-security`, `writing-for-agents`, `teach`, `questionnaire`, `database-migrations`, `commit-message` 추가). 목록과 출처는 `UPGRADES.md`.
+## 현재 상태 (2026-11-20)
+- 스킬 31개(11-20 `comparison-matrix` 추가: 대안·타 기관 사례 비교표). 목록과 출처는 `UPGRADES.md`.
 - 11-19 스킬 설명(description) 전체 정리: 9,956자 → 3,791자(매 대화 상시 비용 절감). 매주 월요일 예약 실행 때 설명 길이·중복 점검(CLAUDE.md 9단계).
 - 공무원용: `gov-report`, `korean-doc-style`, `korean-law-citation`, `questionnaire`(질의서·의견조회서).
 - 한계: 국가법령정보센터 본문은 여기서 직접 못 읽음(JS 로딩, Open API는 고정 IP 필요). HWP/HWPX는 세션에 설치된 플러그인(hwpx, kordoc)으로 처리.
 
 ## 다음 할 일 / 열린 질문
-- 11-19 예약 실행: 새 세션에서 푸시 정상.
+- 11-20 예약 실행: comparison-matrix 추가, 푸시.
 - 사용자가 사용량을 보고 추가 스킬 개수를 정하면 진행.
