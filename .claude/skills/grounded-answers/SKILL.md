@@ -1,6 +1,6 @@
 ---
 name: grounded-answers
-description: Use when answering questions from, or summarizing, a long document or several documents the user supplied (지침, 편람, 법령 전문, 보고서, PDF, 회의록). Law citations: `korean-law-citation`.
+description: Use when answering from or summarizing long documents the user supplied (지침, 편람, 법령 전문, 보고서, PDF, 회의록). Law citations: `korean-law-citation`.
 ---
 
 # Grounded answers from long documents

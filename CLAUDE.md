@@ -22,7 +22,7 @@ This repository is a growing library of Claude skills, each adapted from an open
 
 - Any Claude Code session with this repository attached loads `.claude/skills/` automatically.
 - For other projects: copy a skill folder into that project's `.claude/skills/`, or into `~/.claude/skills/` on a local machine to make it available everywhere.
-- For claude.ai chat: zip a skill folder and upload it under Settings → Capabilities → Skills.
+- For claude.ai chat: zip a skill folder (the folder itself at the zip root, folder name = skill `name`) and upload it under Customize → Skills → + → Upload a skill. Code execution must be on, and the chat `description` limit is 200 characters.
 
 ## Delegating to free models
 
