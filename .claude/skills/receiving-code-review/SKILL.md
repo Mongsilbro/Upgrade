@@ -26,7 +26,7 @@ Feedback is a set of technical claims to check, not orders to execute or praise 
 
 The suggestion breaks existing behavior, misses context, is wrong for this stack, conflicts with compatibility requirements or the user's architecture, or adds a feature nothing uses. For "do it properly" requests, search for actual callers first — if nothing uses it, propose removing it instead.
 
-Push back with evidence (code, tests, versions), not defensiveness. If the reviewer turns out to be right, say so plainly, with what you checked, and fix it.
+Push back with evidence (code, tests, versions), not defensiveness. Pushback on your own answers outside code review: `hold-position`. If the reviewer turns out to be right, say so plainly, with what you checked, and fix it.
 
 ## Tone
 
