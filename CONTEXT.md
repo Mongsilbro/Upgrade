@@ -20,8 +20,8 @@
 - 더 나은 방향이 있으면 항상 짧게 제안(매일 보고 끝에도 한 줄). 11-20: 사용자가 제시한 방법도 그대로 하지 말고 대안과 비교해 더 나은 안을 먼저 제시.
 - 브랜치: `claude/daily-opensource-learning-5d8y9d` (저장소 기본 브랜치). PR 만들지 않음.
 
-## 현재 상태 (2026-11-21)
-- 스킬 35개(11-21 사용자 요청으로 논문·공식 문서 기반 `grounded-answers`(긴 문서 원문 인용 근거 답변), `hold-position`(근거 없는 반박에 답 바꾸지 않기) 추가. 같은 날 `source-driven` 라이브러리 버전·공식 문서 근거 코드 추가; addyosmani/agent-skills ★119k MIT, 다른 스킬은 아직 미검토). 목록과 출처는 `UPGRADES.md`.
+## 현재 상태 (2026-11-22)
+- 스킬 36개(11-22 예약 실행: `no-test-gaming` 추가(ImpossibleBench 논문, 테스트 고쳐서 통과시키기 방지). 11-21 사용자 요청으로 논문·공식 문서 기반 `grounded-answers`(긴 문서 원문 인용 근거 답변), `hold-position`(근거 없는 반박에 답 바꾸지 않기) 추가. 같은 날 `source-driven` 라이브러리 버전·공식 문서 근거 코드 추가; addyosmani/agent-skills ★119k MIT, 다른 스킬은 아직 미검토). 목록과 출처는 `UPGRADES.md`.
 - 11-19 스킬 설명(description) 전체 정리: 9,956자 → 3,791자(매 대화 상시 비용 절감). 매주 월요일 예약 실행 때 설명 길이·중복 점검(CLAUDE.md 9단계).
 - 공무원용: `gov-report`, `korean-doc-style`, `korean-law-citation`, `questionnaire`(질의서·의견조회서).
 - 한계: 국가법령정보센터 본문은 여기서 직접 못 읽음(JS 로딩, Open API는 고정 IP 필요). HWP/HWPX는 세션에 설치된 플러그인(hwpx, kordoc)으로 처리.

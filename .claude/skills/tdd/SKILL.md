@@ -34,3 +34,5 @@ To make boundaries easy to replace:
 1. **Red before green.** Write the failing test and watch it fail for the right reason. Then write only enough code to pass it — no speculative features.
 2. **One slice per cycle.** One seam, one test, one minimal change.
 3. **Refactor separately.** Clean up once tests are green, as its own step, not mixed into making a test pass.
+
+When a test fails and the fix is tempting to make in the test itself, follow `no-test-gaming`.
