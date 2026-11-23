@@ -1,6 +1,6 @@
 ---
 name: gov-report
-description: 공무원 기획보고서·정책보고서·추진계획·개선방안 보고서를 쓰거나 검토할 때. 근거 없는 수치를 만들지 않는다. Korean public-sector reports.
+description: 공무원 기획보고서·정책보고서·추진계획·개선방안 보고서를 쓰거나 검토할 때. Korean public-sector reports.
 ---
 
 # 공무원 기획보고서

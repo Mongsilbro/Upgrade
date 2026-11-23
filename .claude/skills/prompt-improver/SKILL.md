@@ -1,6 +1,6 @@
 ---
 name: prompt-improver
-description: Use when the user asks to improve, rewrite, or review a prompt for an AI (프롬프트 다듬어 줘, 어떻게 시키면 돼). Advises only; does not do the task.
+description: Use when the user asks to improve or review a prompt for an AI (프롬프트 다듬어 줘). Advises only.
 ---
 
 <!--

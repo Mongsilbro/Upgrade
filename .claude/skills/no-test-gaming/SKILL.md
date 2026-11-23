@@ -1,6 +1,6 @@
 ---
 name: no-test-gaming
-description: Use when making failing tests or checks pass, especially when a test seems to contradict the task or keeps failing after several tries. Test-first work: `tdd`.
+description: 'Use when making failing tests or checks pass, especially when a test seems to contradict the task. Test-first work: `tdd`.'
 ---
 
 <!-- Source: Zhong, Raghunathan, Carlini, "ImpossibleBench: Measuring LLMs' Propensity of Exploiting Test Cases", 2025, arXiv:2510.20270. Ideas only, no text reused. -->

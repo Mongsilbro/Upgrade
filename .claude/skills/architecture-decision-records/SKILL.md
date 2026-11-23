@@ -1,6 +1,6 @@
 ---
 name: architecture-decision-records
-description: Use when asked to record a decision or write an ADR, when choosing between technical alternatives, or when asked why the code is built a certain way. ADRs in docs/adr/.
+description: Use when recording a decision or ADR, choosing between technical alternatives, or asked why code is built a certain way.
 ---
 
 # Architecture Decision Records

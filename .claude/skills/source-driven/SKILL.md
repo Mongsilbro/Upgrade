@@ -1,6 +1,6 @@
 ---
 name: source-driven
-description: "Use when writing or reviewing code whose correctness depends on a library, framework, or API version, or when asked for current, documented, or source-cited code."
+description: Use when writing or reviewing code whose correctness depends on a library, framework, or API version.
 ---
 
 # Source-Driven Code

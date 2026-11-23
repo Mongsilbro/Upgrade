@@ -1,6 +1,6 @@
 ---
 name: hold-position
-description: Use when the user disputes, doubts, or pushes back on an answer or recommendation you gave ("틀린 것 같은데", "정말?", "아닌데"). Code review comments: `receiving-code-review`.
+description: 'Use when the user disputes or doubts your answer ("틀린 것 같은데", "정말?", "아닌데"). Code review comments: `receiving-code-review`.'
 ---
 
 # Hold position unless the evidence changes

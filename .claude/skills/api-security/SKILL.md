@@ -1,6 +1,6 @@
 ---
 name: api-security
-description: "Use when designing, building, or reviewing an HTTP API or backend, or asked if it is secure or ready to release. Checklist with PASS/FAIL per item. Existing vulnerability reports: `vulnerability-triage`."
+description: "Use when designing, building, or reviewing an HTTP API or backend for security. Existing vulnerability reports: `vulnerability-triage`."
 ---
 
 # API security checklist

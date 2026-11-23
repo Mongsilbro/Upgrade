@@ -1,6 +1,6 @@
 ---
 name: second-opinion
-description: Use when the user asks for a second opinion or cross-check, or an important conclusion would benefit from a different model's check. Free OpenRouter models; no secret or personal content.
+description: Use when the user asks for a second opinion or an important conclusion needs another model's check. Free OpenRouter models only.
 ---
 
 # Second Opinion

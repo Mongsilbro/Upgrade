@@ -46,6 +46,8 @@ One open-source adoption per day. Newest first.
 
 | Date | Source | Reason |
 |------|--------|--------|
+| 2026-11-23 | Weekly audit: removed `commit-message` (adopted 2026-11-19) | Fails X→Y: Claude Code already reads `git log` and matches the repo's commit style by default. |
+| 2026-11-23 | Weekly audit: removed `codebase-onboarding` (adopted 2026-11-18) | Fails X→Y: built-in `/init` creates CLAUDE.md, and exploring a repo is default behaviour. Also trimmed 15 descriptions (4,891 → about 4,040 chars) and quoted three that were invalid YAML. |
 | 2026-11-22 | GitHub search "data analysis checklist" (top result abhattachar5/BASkill-Claude ★9) | Results too low-starred and thin; the paper above was chosen instead (different domain: conversation handling). |
 | 2026-11-22 | obra/superpowers `skills/systematic-debugging/condition-based-waiting.md` (★324k, MIT) | Read in full and safe, but already covered: our `systematic-debugging` has the condition-based-waiting rule. |
 | 2026-11-21 | Anthropic "Building effective agents", "Effective context engineering for AI agents", Claude Code best practices, prompting best practices (XML tags, examples, role, clear instructions) | Already covered by default behaviour or existing skills (`running-summary`, `handoff`, `writing-plans`, `prompt-improver`); prompting tips are for prompt writers, not a change in how Claude works. |

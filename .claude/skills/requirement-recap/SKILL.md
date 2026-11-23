@@ -1,6 +1,6 @@
 ---
 name: requirement-recap
-description: Use when the user adds, corrects, or changes requirements across several turns ("아 그리고", "그게 아니라", "하나 더"), or a request arrives in pieces before the first full answer.
+description: Use when the user adds, corrects, or changes requirements across turns ("아 그리고", "그게 아니라", "하나 더").
 ---
 
 # Requirement recap
