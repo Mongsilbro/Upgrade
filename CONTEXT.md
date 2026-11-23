@@ -21,7 +21,8 @@
 - 브랜치: `claude/daily-opensource-learning-5d8y9d` (저장소 기본 브랜치). PR 만들지 않음.
 
 ## 현재 상태 (2026-11-23)
-- 11-23(월) 점검: `commit-message`, `codebase-onboarding` 제거(X→Y 실패: 기본 동작·`/init`이 대신함), 설명 합계 약 4,050자로 축소, YAML 오류 3건 수정. 같은 날 `compute-with-code` 추가(PAL·PoT·Faith and Fate 논문, 파생 수치는 코드로 계산). 스킬 35개.
+- 11-23(월) 점검: `commit-message`, `codebase-onboarding` 제거(X→Y 실패: 기본 동작·`/init`이 대신함), 설명 합계 약 4,050자로 축소, YAML 오류 3건 수정. 같은 날 `compute-with-code` 추가(PAL·PoT·Faith and Fate 논문, 파생 수치는 코드로 계산). 스킬 36개.
+- 11-23 사용자 승인: `scripts/check-skills.py`(YAML·name·설명 200자·합계 4,200자 검사)를 만들고 CLAUDE.md 6단계에 커밋 전 실행으로 넣음.
 - 이전: 스킬 36개(11-22 예약 실행: `no-test-gaming` 추가(ImpossibleBench 논문, 테스트 고쳐서 통과시키기 방지). 11-21 사용자 요청으로 논문·공식 문서 기반 `grounded-answers`(긴 문서 원문 인용 근거 답변), `hold-position`(근거 없는 반박에 답 바꾸지 않기) 추가. 같은 날 `source-driven` 라이브러리 버전·공식 문서 근거 코드 추가; addyosmani/agent-skills ★119k MIT, 다른 스킬은 아직 미검토). 목록과 출처는 `UPGRADES.md`.
 - 11-19 스킬 설명(description) 전체 정리: 9,956자 → 3,791자(매 대화 상시 비용 절감). 매주 월요일 예약 실행 때 설명 길이·중복 점검(CLAUDE.md 9단계).
 - 공무원용: `gov-report`, `korean-doc-style`, `korean-law-citation`, `questionnaire`(질의서·의견조회서).
