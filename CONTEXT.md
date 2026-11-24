@@ -20,7 +20,8 @@
 - 더 나은 방향이 있으면 항상 짧게 제안(매일 보고 끝에도 한 줄). 11-20: 사용자가 제시한 방법도 그대로 하지 말고 대안과 비교해 더 나은 안을 먼저 제시.
 - 브랜치: `claude/daily-opensource-learning-5d8y9d` (저장소 기본 브랜치). PR 만들지 않음.
 
-## 현재 상태 (2026-11-23)
+## 현재 상태 (2026-11-24)
+- 11-24 예약 실행: `constraint-checklist` 추가(Curse of Instructions·IFScale·IFEval 논문, 요청 하나에 제약이 많을 때 목록화→항목별 검사→`제약 N개 중 N개 충족` 보고). 스킬 37개, 설명 합계 4,174자(한도 4,200 근접 → 다음 월요일 점검 때 축소 필요).
 - 11-23(월) 점검: `commit-message`, `codebase-onboarding` 제거(X→Y 실패: 기본 동작·`/init`이 대신함), 설명 합계 약 4,050자로 축소, YAML 오류 3건 수정. 같은 날 `compute-with-code` 추가(PAL·PoT·Faith and Fate 논문, 파생 수치는 코드로 계산). 스킬 36개.
 - 11-23 사용자 승인: `scripts/check-skills.py`(YAML·name·설명 200자·합계 4,200자 검사)를 만들고 CLAUDE.md 6단계에 커밋 전 실행으로 넣음.
 - 이전: 스킬 36개(11-22 예약 실행: `no-test-gaming` 추가(ImpossibleBench 논문, 테스트 고쳐서 통과시키기 방지). 11-21 사용자 요청으로 논문·공식 문서 기반 `grounded-answers`(긴 문서 원문 인용 근거 답변), `hold-position`(근거 없는 반박에 답 바꾸지 않기) 추가. 같은 날 `source-driven` 라이브러리 버전·공식 문서 근거 코드 추가; addyosmani/agent-skills ★119k MIT, 다른 스킬은 아직 미검토). 목록과 출처는 `UPGRADES.md`.

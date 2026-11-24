@@ -5,7 +5,7 @@ description: Use when the user adds, corrects, or changes requirements across tu
 
 # Requirement recap
 
-Source: ideas from Laban, Hayashi, Zhou, Neville, *LLMs Get Lost In Multi-Turn Conversation*, 2025 (arXiv:2505.06120). Ideas only, no text reused.
+Source: ideas from Laban, Hayashi, Zhou, Neville, *LLMs Get Lost In Multi-Turn Conversation*, 2025 (arXiv:2505.06120). Ideas only, no text reused. Many constraints in a single message: `constraint-checklist`.
 
 Why: when a task is revealed bit by bit, models answer too early, fill gaps with their own guesses, and then keep building on that first attempt. Errors from an early guess persist even after the user says otherwise. Performance drops sharply compared with getting the same request in one message.
 
