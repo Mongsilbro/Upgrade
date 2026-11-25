@@ -1,6 +1,6 @@
 ---
 name: search-first
-description: "Use before writing a new utility, helper, or integration, or adding a dependency: check for an existing solution first."
+description: "Use before writing a new utility, helper, or integration, or adding a dependency."
 ---
 
 # Search First

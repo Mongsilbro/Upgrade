@@ -1,6 +1,6 @@
 ---
 name: premortem
-description: "Use when a plan, project, or policy is about to be committed to and the user wants a premortem. Unformed ideas: `grilling`; code changes: `change-impact`."
+description: "Use when the user wants a premortem of a plan or policy about to be committed. Unformed ideas: `grilling`; code: `change-impact`."
 ---
 
 # Premortem

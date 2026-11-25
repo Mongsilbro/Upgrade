@@ -51,4 +51,4 @@ Example for "evidence of results": 1 no outcome stated · 3 outcomes stated by t
 4. Per option, one line each: strength to learn from, weakness, risk.
 5. Gaps: cells not verified and what would close them.
 
-Recording the final choice: `architecture-decision-records` (technical) or `gov-report` (개선방안·대안 비교 보고서). Judging a single study's quality: `literature-review`.
+Judging which of two drafts or answers is better: `pairwise-judging`. Recording the final choice: `architecture-decision-records` (technical) or `gov-report` (개선방안·대안 비교 보고서). Judging a single study's quality: `literature-review`.

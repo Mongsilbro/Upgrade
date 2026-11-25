@@ -1,6 +1,6 @@
 ---
 name: change-impact
-description: Use before a risky or wide-reaching code change (public API, schema, auth, deploy, anything irreversible) or when asked about blast radius or rollback.
+description: Use before a risky or wide-reaching code change (public API, schema, auth, deploy, irreversible) or when asked about blast radius.
 ---
 
 # Change Impact Analysis
