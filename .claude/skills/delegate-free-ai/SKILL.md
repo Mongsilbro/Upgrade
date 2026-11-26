@@ -1,6 +1,6 @@
 ---
 name: delegate-free-ai
-description: "Use on your own initiative to hand self-contained, low-risk sub-tasks to free OpenRouter models. Never secret, personal, or private content."
+description: "Unprompted, hand self-contained low-risk sub-tasks to free OpenRouter models. No private content."
 ---
 
 # Delegate to Free AI

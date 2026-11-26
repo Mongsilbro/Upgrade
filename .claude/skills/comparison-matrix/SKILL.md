@@ -1,6 +1,6 @@
 ---
 name: comparison-matrix
-description: Use when comparing or scoring several options, vendors, or other organizations' cases on the same criteria (비교표, 대안 비교, 벤치마킹).
+description: Use when scoring several options, vendors, or other organizations' cases on shared criteria (비교표, 대안 비교, 벤치마킹).
 ---
 
 <!--

@@ -7,7 +7,7 @@ description: Use when writing or reviewing code whose correctness depends on a l
 
 Adapted from [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (`skills/source-driven-development/SKILL.md`, MIT, © 2025 Addy Osmani). Condensed and reworded; see `UPGRADES.md` for the adoption record.
 
-Training data goes stale. For anything version-dependent, the installed version and its official docs decide, not memory. Related: `search-first` (whether to write it at all), `korean-law-citation` (the same discipline for law).
+Training data goes stale. For anything version-dependent, the installed version and its official docs decide, not memory. Related: `search-first` (whether to write it at all), `korean-law-citation` (the same discipline for law), `dated-facts` (non-code facts that change over time).
 
 Skip this for version-independent work: renames, plain logic, moving files, or when the user asks for speed over verification.
 

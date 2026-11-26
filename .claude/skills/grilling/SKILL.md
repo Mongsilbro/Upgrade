@@ -1,6 +1,6 @@
 ---
 name: grilling
-description: "Use when the user asks to be grilled, interviewed, or challenged on a plan or idea before work starts. Ready-to-commit plan documents: `premortem`."
+description: "Use when the user asks to be grilled, interviewed, or challenged on a plan or idea. Ready-to-commit plan documents: `premortem`."
 ---
 
 # Grilling
