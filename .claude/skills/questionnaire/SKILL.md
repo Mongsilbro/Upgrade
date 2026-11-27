@@ -1,6 +1,6 @@
 ---
 name: questionnaire
-description: Use when the user needs a questionnaire, 질의서, or 의견조회서 to get answers from a colleague, department, expert, or vendor.
+description: Use when the user needs a questionnaire, 질의서, or 의견조회서 to get answers from others.
 ---
 
 # Questionnaire for someone who knows what you don't

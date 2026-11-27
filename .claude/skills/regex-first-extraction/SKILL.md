@@ -1,6 +1,6 @@
 ---
 name: regex-first-extraction
-description: Use when designing code that extracts structured data from text (forms, invoices, logs, tables) and choosing between regex and an LLM.
+description: Use when writing code that extracts fields from text (forms, invoices, logs) and choosing regex vs an LLM.
 ---
 
 # Regex-First Extraction

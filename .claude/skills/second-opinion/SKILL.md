@@ -1,6 +1,6 @@
 ---
 name: second-opinion
-description: Use when the user asks for a second opinion or an important conclusion needs another model's check. Free OpenRouter models only.
+description: Use when the user asks for a second opinion or a key conclusion needs another model's check. Free OpenRouter models.
 ---
 
 # Second Opinion

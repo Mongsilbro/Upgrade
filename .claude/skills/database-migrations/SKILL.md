@@ -1,6 +1,6 @@
 ---
 name: database-migrations
-description: "Use when writing or reviewing a schema or data migration: column/index/constraint changes, backfills, rollback, zero-downtime deploys."
+description: "Use when writing or reviewing a schema or data migration (backfills, rollback, zero-downtime deploys)."
 ---
 
 # Database migrations

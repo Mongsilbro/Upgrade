@@ -1,6 +1,6 @@
 ---
 name: tdd
-description: Use when working test-first, when TDD or red-green-refactor comes up, or when deciding what to test and mock.
+description: "Use when working test-first, when TDD or red-green-refactor comes up, or deciding what to mock. Interfaces: `module-design`."
 ---
 
 # Test-Driven Development
