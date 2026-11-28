@@ -1,6 +1,6 @@
 ---
 name: api-security
-description: "Use when designing, building, or reviewing an HTTP API or backend for security. Existing vulnerability reports: `vulnerability-triage`."
+description: "Use when building or reviewing an HTTP API or backend for security. Existing findings: `vulnerability-triage`."
 ---
 
 # API security checklist

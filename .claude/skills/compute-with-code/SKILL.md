@@ -1,6 +1,6 @@
 ---
 name: compute-with-code
-description: 'Use when an answer needs numbers derived from given figures (합계, 증감률, 비율, 기간·날짜, 단위 환산). Sourcing figures: `gov-report`.'
+description: 'Use when an answer needs numbers derived from given figures (합계, 증감률, 비율, 기간, 단위 환산). Sourcing figures: `gov-report`.'
 ---
 
 # Compute with code, not in your head

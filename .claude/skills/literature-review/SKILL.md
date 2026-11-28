@@ -1,6 +1,6 @@
 ---
 name: literature-review
-description: Use when asked for a literature review, evidence summary, or 선행연구, or how strong a study's evidence is.
+description: Use when asked for a literature review or 선행연구, or how strong a study's evidence is.
 ---
 
 # Literature review and evidence evaluation

@@ -1,6 +1,6 @@
 ---
 name: grounded-answers
-description: 'Use when answering from or summarizing long documents the user supplied (지침, 편람, 법령, 보고서, PDF). Law citations: `korean-law-citation`.'
+description: 'Use when answering from or summarizing long documents the user supplied (지침, 법령, 보고서, PDF). Law citations: `korean-law-citation`.'
 ---
 
 # Grounded answers from long documents
@@ -8,6 +8,8 @@ description: 'Use when answering from or summarizing long documents the user sup
 Ideas (not text) from: Anthropic, "Reduce hallucinations" and "Prompting best practices — Long context prompting" (platform.claude.com docs, read 2026-11-21); N. F. Liu et al., "Lost in the Middle: How Language Models Use Long Contexts", TACL 2023 (arXiv:2307.03172); S. Dhuliawala et al., "Chain-of-Verification Reduces Hallucination in Large Language Models", 2023 (arXiv:2309.11495). Written from scratch; see `UPGRADES.md`.
 
 Why: models miss facts placed in the middle of long inputs, and paraphrased answers drift from the source. Quoting first and checking each claim against a quote catches both.
+
+When restating study or report findings, also keep each finding's scope and strength: `scoped-summaries`.
 
 ## Steps
 

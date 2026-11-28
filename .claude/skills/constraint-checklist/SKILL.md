@@ -1,6 +1,6 @@
 ---
 name: constraint-checklist
-description: "Use when one request sets many explicit constraints (형식, 분량, 필수 항목, 금지 표현, 순서). Changes across turns: `requirement-recap`."
+description: "Use when one request sets many explicit constraints (형식, 분량, 필수 항목, 금지 표현). Changes across turns: `requirement-recap`."
 ---
 
 # Constraint checklist

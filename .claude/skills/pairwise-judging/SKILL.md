@@ -1,6 +1,6 @@
 ---
 name: pairwise-judging
-description: "Use when judging which of two or more drafts or answers is better, incl. your own (A안 vs B안). Scoring options: `comparison-matrix`."
+description: "Use when judging which of two or more drafts or answers is better (A안 vs B안). Scoring options: `comparison-matrix`."
 ---
 
 <!--
